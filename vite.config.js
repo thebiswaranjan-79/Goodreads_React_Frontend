@@ -9,7 +9,7 @@ export default defineConfig({
      
       Components : "/src/Components",
       Pages : "/src/Pages",
-      Assets:"/src/Assets",
+      assets:"/src/assets",
       Layouts :"/src/Layouts",
       Redux:"/src/Redux",
       Config:"/src/Config",
