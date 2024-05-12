@@ -1,12 +1,10 @@
-import Home from 'Pages/Home';
 
+import MainRoutes from 'Routes/MainRoutes';
 
 function App() {
 
   return (
-    <>
-     <Home/>
-    </>
+    <MainRoutes />
   );
 }
 
