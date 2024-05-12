@@ -1,5 +1,5 @@
 
-import './App.css'
+import './App.css';
 
 function App() {
 
@@ -7,7 +7,7 @@ function App() {
     <>
      Home
     </>
-  )
+  );
 }
 
-export default App
+export default App;
